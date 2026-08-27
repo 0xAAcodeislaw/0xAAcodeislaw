@@ -12,6 +12,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=700&color=00E5FF&center=true&vCenter=true&width=640&lines=embedded+%C2%B7+cellular+%C2%B7+networking+%C2%B7+macOS;repurposing+locked-down+hardware+since+2018;0xAA...+%3D+address+identity+%C2%B7+code+is+law+%3D+protocol+philosophy)](https://git.io/typing-svg)
 
+[![Live Resume](https://img.shields.io/badge/live_resume-0xAAcodeislaw.github.io-00E5FF?style=for-the-badge&logo=githubpages&logoColor=0D1117)](https://0xAAcodeislaw.github.io/)
+
 </div>
 
 ---
