@@ -8,9 +8,9 @@
  \___//_/\_\/_/   \_\/_/   \_\___\___/ \__,_|\___|_|___/_|\__,_| \_/\_/
 </pre>
 
-**`0xAA`** — `10101010` — the test pattern. Everything is a test pattern.
+**`0xAA…`** — an address prefix before it becomes an identity.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=700&color=00E5FF&center=true&vCenter=true&width=640&lines=embedded+%C2%B7+cellular+%C2%B7+networking+%C2%B7+macOS;repurposing+locked-down+hardware+since+2018;0xAA+%3D+10101010+%3D+the+alternating+bit+pattern)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=700&color=00E5FF&center=true&vCenter=true&width=640&lines=embedded+%C2%B7+cellular+%C2%B7+networking+%C2%B7+macOS;repurposing+locked-down+hardware+since+2018;0xAA...+%3D+crypto+address+prefix+%3D+on-chain+identity)](https://git.io/typing-svg)
 
 </div>
 
@@ -87,9 +87,8 @@ $ uptime
 <div align="center">
 
 ```
-.------------------------------------------------------------------------.
-| 0x00 0x41 0x41 | "AA" | 10101010 | signal  ok  |  handshake  ... done |
-'------------------------------------------------------------------------'
+0xAA......................................
+^^^^ first byte · vanity prefix · on-chain identity starts here
 ```
 
 **`0xAAcodeislaw`** · embedded · cellular · networking
