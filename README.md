@@ -8,9 +8,9 @@
  \___//_/\_\/_/   \_\/_/   \_\___\___/ \__,_|\___|_|___/_|\__,_| \_/\_/
 </pre>
 
-**`0xAA…`** — an address prefix before it becomes an identity.
+**`0xAA…`** — the address begins. **`code is law`** — the protocol decides.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=700&color=00E5FF&center=true&vCenter=true&width=640&lines=embedded+%C2%B7+cellular+%C2%B7+networking+%C2%B7+macOS;repurposing+locked-down+hardware+since+2018;0xAA...+%3D+crypto+address+prefix+%3D+on-chain+identity)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=700&color=00E5FF&center=true&vCenter=true&width=640&lines=embedded+%C2%B7+cellular+%C2%B7+networking+%C2%B7+macOS;repurposing+locked-down+hardware+since+2018;0xAA...+%3D+address+identity+%C2%B7+code+is+law+%3D+protocol+philosophy)](https://git.io/typing-svg)
 
 </div>
 
@@ -30,6 +30,7 @@ $ cat profile.json
   ],
   "stack": ["C", "Objective-C", "Swift", "Shell", "Python", "Go"],
   "runtime": "macOS · Apple Silicon (arm64)",
+  "creed": "code is law — protocol before permission",
   "motto": "if the vendor locked it down, it's a puzzle, not a wall"
 }
 
@@ -87,8 +88,9 @@ $ uptime
 <div align="center">
 
 ```
-0xAA......................................
-^^^^ first byte · vanity prefix · on-chain identity starts here
+0xAA | code is law
+^^^^   ^^^^^^^^^^^
+address identity · protocol-defined order
 ```
 
 **`0xAAcodeislaw`** · embedded · cellular · networking
