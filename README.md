@@ -82,13 +82,37 @@ $ uptime
 
 <div align="center">
 
-| signal | value |
-|---|---|
-| [![GitHub stats](https://github-readme-stats.vercel.app/api?username=0xAAcodeislaw&show_icons=true&theme=radical&hide_title=true&count_private=false)](https://github.com/anuraghazra/github-readme-stats) | [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xAAcodeislaw&layout=compact&theme=radical&hide_title=true&hide_progress=false)](https://github.com/anuraghazra/github-readme-stats) |
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=0xAAcodeislaw&amp;theme=github_dark">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=0xAAcodeislaw&amp;theme=github" alt="GitHub statistics">
+        </picture>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0xAAcodeislaw&amp;theme=github_dark">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0xAAcodeislaw&amp;theme=github" alt="Repositories by language">
+        </picture>
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
-[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=0xAAcodeislaw&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&height=280)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+<div align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xAAcodeislaw&amp;theme=github_dark">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xAAcodeislaw&amp;theme=github" alt="GitHub activity details">
+    </picture>
+  </a>
+</div>
 
 ---
 
@@ -102,7 +126,6 @@ address identity · protocol-defined order
 
 **`0xAAcodeislaw`** · embedded · cellular · networking
 
-[![visitors](https://api.visitorbadge.io/api/visitors?path=0xAAcodeislaw%2F0xAAcodeislaw&label=probes&labelColor=%230d1117&countColor=%2300e5ff)](https://visitorbadge.io/status?path=0xAAcodeislaw%2F0xAAcodeislaw)
+[![visitors](https://api.visitorbadge.io/api/visitors?path=0xAAcodeislaw%2F0xAAcodeislaw&label=probes&labelColor=%2324292F&countColor=%230969DA)](https://visitorbadge.io/status?path=0xAAcodeislaw%2F0xAAcodeislaw)
 
 </div>
-
