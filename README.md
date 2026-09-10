@@ -10,9 +10,14 @@
 
 **`0xAA…`** — the address begins. **`code is law`** — the protocol decides.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=700&color=00E5FF&center=true&vCenter=true&width=640&lines=embedded+%C2%B7+cellular+%C2%B7+networking+%C2%B7+macOS;repurposing+locked-down+hardware+since+2018;0xAA...+%3D+address+identity+%C2%B7+code+is+law+%3D+protocol+philosophy)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=19&amp;duration=3200&amp;pause=700&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=640&amp;lines=embedded+%C2%B7+cellular+%C2%B7+networking+%C2%B7+macOS;repurposing+locked-down+hardware+since+2018;0xAA...+%3D+address+identity+%C2%B7+code+is+law+%3D+protocol+philosophy">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=19&amp;duration=3200&amp;pause=700&amp;color=0969DA&amp;center=true&amp;vCenter=true&amp;width=640&amp;lines=embedded+%C2%B7+cellular+%C2%B7+networking+%C2%B7+macOS;repurposing+locked-down+hardware+since+2018;0xAA...+%3D+address+identity+%C2%B7+code+is+law+%3D+protocol+philosophy" alt="Embedded · cellular · networking · macOS — address identity · code is law">
+  </picture>
+</a>
 
-[![Live Resume](https://img.shields.io/badge/live_resume-0xAAcodeislaw.github.io-00E5FF?style=for-the-badge&logo=githubpages&logoColor=0D1117)](https://0xAAcodeislaw.github.io/)
+[![Live Resume](https://img.shields.io/badge/live_resume-0xAAcodeislaw.github.io-0969DA?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=24292F)](https://0xAAcodeislaw.github.io/)
 
 </div>
 
@@ -100,3 +105,4 @@ address identity · protocol-defined order
 [![visitors](https://api.visitorbadge.io/api/visitors?path=0xAAcodeislaw%2F0xAAcodeislaw&label=probes&labelColor=%230d1117&countColor=%2300e5ff)](https://visitorbadge.io/status?path=0xAAcodeislaw%2F0xAAcodeislaw)
 
 </div>
+
