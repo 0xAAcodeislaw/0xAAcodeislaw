@@ -1,24 +1,24 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="440" height="320" viewBox="0 0 440 320" role="img" aria-labelledby="title desc">
   <title id="title">Contribution breakdown</title>
-  <desc id="desc">Last 365 days: 67% commits, 33% pull requests, 0% issues, 0% code review.</desc>
+  <desc id="desc">Last 365 days: 76% commits, 24% pull requests, 0% issues, 0% code review.</desc>
   <rect x="0.5" y="0.5" width="439" height="319" rx="8" fill="#0d1117" stroke="#30363d"/>
   <g font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" fill="#c9d1d9">
     <g stroke="#58A6FF" stroke-width="2" stroke-linecap="round" opacity="0.9">
       <line x1="220" y1="58" x2="220" y2="270"/>
       <line x1="114" y1="164" x2="326" y2="164"/>
     </g>
-    <polygon points="220,164 220,164 220,198.98000000000002 148.98,164" fill="#58A6FF" fill-opacity="0.28" stroke="#58A6FF" stroke-width="2"/>
+    <polygon points="220,164 220,164 220,189.44 139.44,164" fill="#58A6FF" fill-opacity="0.28" stroke="#58A6FF" stroke-width="2"/>
     <g fill="#0d1117" stroke="#58A6FF" stroke-width="2">
       <circle cx="220" cy="164" r="4"/>
       <circle cx="220" cy="164" r="4"/>
-      <circle cx="220" cy="198.98000000000002" r="4"/>
-      <circle cx="148.98" cy="164" r="4"/>
+      <circle cx="220" cy="189.44" r="4"/>
+      <circle cx="139.44" cy="164" r="4"/>
     </g>
     <g font-size="13" text-anchor="middle">
       <text x="220" y="34"><tspan x="220" dy="0">0%</tspan><tspan x="220" dy="16">Code review</tspan></text>
       <text x="344" y="158" text-anchor="start"><tspan x="344" dy="0">0%</tspan><tspan x="344" dy="16">Issues</tspan></text>
-      <text x="220" y="292"><tspan x="220" dy="0">33%</tspan><tspan x="220" dy="16">Pull requests</tspan></text>
-      <text x="96" y="158" text-anchor="end"><tspan x="96" dy="0">67%</tspan><tspan x="96" dy="16">Commits</tspan></text>
+      <text x="220" y="292"><tspan x="220" dy="0">24%</tspan><tspan x="220" dy="16">Pull requests</tspan></text>
+      <text x="96" y="158" text-anchor="end"><tspan x="96" dy="0">76%</tspan><tspan x="96" dy="16">Commits</tspan></text>
     </g>
   </g>
 </svg>
