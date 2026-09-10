@@ -117,7 +117,7 @@ $ uptime
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xAAcodeislaw/0xAAcodeislaw/main/assets/contribution-breakdown-dark.svg">
-    <img src="https://raw.githubusercontent.com/0xAAcodeislaw/0xAAcodeislaw/main/assets/contribution-breakdown-light.svg" alt="Contribution breakdown for the last 12 months: 56% commits, 44% pull requests, 0% issues, 0% code review">
+    <img src="https://raw.githubusercontent.com/0xAAcodeislaw/0xAAcodeislaw/main/assets/contribution-breakdown-light.svg" alt="Contribution breakdown for the last 365 days">
   </picture>
 </div>
 
