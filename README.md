@@ -62,6 +62,14 @@ $ uptime
 | [iStoreOS-Actions](https://github.com/0xAAcodeislaw/iStoreOS-Actions) | iStoreOS support for Amlogic / Rockchip / Allwinner boxes |
 | [img-installer](https://github.com/0xAAcodeislaw/img-installer) | Debian-Live based image installer — Armbian / OpenWrt on x86-64 |
 
+### 📚 classical study
+
+| project | what it contains |
+|---|---|
+| [twgx](https://github.com/0xAAcodeislaw/twgx) | 《滕王阁序》全文学习、逐字注解、记忆卡与离线预览 |
+| [xj](https://github.com/0xAAcodeislaw/xj) | 《般若波罗蜜多心经》全文学习、注音、译解与记忆卡 |
+| [jgj](https://github.com/0xAAcodeislaw/jgj) | 《金刚经》全文学习、句群翻译、注疏复核与长图预览 |
+
 ### 🧰 toolchain
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
