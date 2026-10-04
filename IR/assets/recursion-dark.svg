@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="360" viewBox="0 0 960 360" role="img" aria-labelledby="title desc">
+  <title id="title">Infinite recursion</title>
+  <desc id="desc">Nested function frames descend toward a base case, then return with a smaller problem solved.</desc>
+  <rect x="0.5" y="0.5" width="959" height="359" rx="12" fill="#0d1117" stroke="#30363d"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">
+    <text x="48" y="58" fill="#58A6FF" font-size="17" font-weight="700" letter-spacing="3">INFINITE RECURSION</text>
+    <text x="48" y="105" fill="#F0F6FC" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="30">f(f(f(...)))</text>
+    <text x="48" y="137" fill="#8B949E" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13">depth → ∞  /  base case → clarity</text>
+    <path d="M48 190H290" stroke="#30363d" stroke-width="2"/>
+    <text x="48" y="220" fill="#8B949E" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13">input: locked-down hardware</text>
+    <text x="48" y="246" fill="#8B949E" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13">action: inspect → patch → test</text>
+    <text x="48" y="272" fill="#8B949E" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13">return: a smaller problem</text>
+    <g fill="none" stroke-linejoin="round">
+      <rect x="370" y="48" width="510" height="264" rx="10" stroke="#58A6FF" stroke-width="2"/>
+      <rect x="400" y="72" width="450" height="216" rx="9" stroke="#BC8CFF" stroke-width="2"/>
+      <rect x="430" y="96" width="390" height="168" rx="8" stroke="#58A6FF" stroke-width="2"/>
+      <rect x="460" y="120" width="330" height="120" rx="7" stroke="#3FB950" stroke-width="2"/>
+      <rect x="490" y="144" width="270" height="72" rx="6" stroke="#58A6FF" stroke-width="2"/>
+    </g>
+    <g fill="#8B949E" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="11">
+      <text x="386" y="66">frame(n)</text>
+      <text x="416" y="90">frame(n−1)</text>
+      <text x="446" y="114">frame(n−2)</text>
+      <text x="476" y="138">frame(…)</text>
+    </g>
+    <text x="625" y="180" fill="#58A6FF" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="27" text-anchor="middle">∞</text>
+    <text x="625" y="201" fill="#3FB950" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" text-anchor="middle">base case</text>
+    <path d="M808 282c20 0 35-12 35-30 0-13-8-23-21-27" fill="none" stroke="#58A6FF" stroke-width="2" stroke-linecap="round"/>
+    <path d="m815 217 8 8-11 2" fill="none" stroke="#58A6FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="846" y="306" fill="#8B949E" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="11" text-anchor="end">return → ship()</text>
+  </g>
+</svg>
